@@ -18,8 +18,8 @@ int main(void)
 for(int i=0;i<300;i++)
 {
 
-line(100+i,100,200+i,100);
-delay(10);
+line(100+i,15000+i,100);
+delay(100;
 cleardevice();
 }
   
